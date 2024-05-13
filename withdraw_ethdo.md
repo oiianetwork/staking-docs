@@ -1,14 +1,15 @@
 ## Withdrawing Using ethdo
 
+### Base Usage
 
-### 1. Use the following command to install `ethdo`:
+#### 1. Use the following command to install `ethdo`:
 
 ```
 go install github.com/wealdtech/ethdo@latest
 ```
 Note: `ethdo` requires Go version 1.20 or higher to operate. You can check your Go version with the command: `go version`
 
-### 2. Exit and Withdraw Online
+#### 2. Exit and Withdraw Online
 
 To exit and withdraw, use the following command:
 
@@ -21,7 +22,7 @@ This command will withdraw **all validators** associated with your mnemonic.
 If no error logs are displayed after executing the command, you can verify the validator status on the [Beacon Explorer](https://beacon.fusionist.io/).
 
 
-### Advanceed
+### Advanceed Usage
 
 #### Use remote node rathern than localnode
 

@@ -13,6 +13,6 @@
 
 - [Withdrawal Process](https://medium.com/@fusionist.id/endurance-validator-withdrawal-process-d37163b2cd38) (by @Syam) - [Archive](https://web.archive.org/web/20240513031109/https://medium.com/@fusionist.id/endurance-validator-withdrawal-process-d37163b2cd38)
 
-- [Withdraw using ethdo](./withdraw_ethdo.md)
+- [Withdraw with ethdo](./withdraw_ethdo.md)
 
 
