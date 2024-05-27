@@ -1,18 +1,41 @@
+# Website
 
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-## Official Website
+### Installation
 
-- [Endurance Staking Launchpad](https://staking.fusionist.io/)
+```
+$ yarn
+```
 
-## Become a Validator
+### Local Development
 
-- [Server Preparation](https://medium.com/@fusionist.id/how-to-run-endurance-staking-node-1-b27329fb0a9b) (by @Syam) - [Archive](https://web.archive.org/web/20240513031109/https://medium.com/@fusionist.id/how-to-run-endurance-staking-node-1-b27329fb0a9b)
-- [Node Setup and Staking](https://medium.com/@fusionist.id/how-to-run-endurance-staking-node-2-173f62e3a9b7) (by @Syam) - [Archive](https://web.archive.org/web/20240513031109/https://medium.com/@fusionist.id/how-to-run-endurance-staking-node-2-173f62e3a9b7)
-- How to stake more validators [TODO]  
+```
+$ yarn start
+```
 
-## Withdrawls
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-- [Withdrawal with Lighthouse command](https://medium.com/@fusionist.id/endurance-validator-withdrawal-process-d37163b2cd38) (by @Syam) - [Archive](https://web.archive.org/web/20240513031109/https://medium.com/@fusionist.id/endurance-validator-withdrawal-process-d37163b2cd38)
+### Build
 
-- [Withdraw with ethdo](./withdraw_ethdo.md)
+```
+$ yarn build
+```
 
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+### Deployment
+
+Using SSH:
+
+```
+$ USE_SSH=true yarn deploy
+```
+
+Not using SSH:
+
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
