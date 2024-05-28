@@ -2,7 +2,7 @@
 sidebar_position: 60
 ---
 
-# Put the Keys in the Node
+# Load Keys to Node
 
 ## For Reth-Lighthouse Template
 

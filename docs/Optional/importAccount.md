@@ -4,7 +4,15 @@ sidebar_position: 100
 
 # Import keys by Lighthouse cli
 
-You can run this script In the `mainnet-reth-lighthouse` folder to import your keys:
+
+You **should not** use these parameters in your startup:
+
+```
+--validators-dir=/validator_keys
+--secrets-dir=/validator_keys_secrets
+```
+
+You can run this script in the `mainnet-reth-lighthouse` folder to import your keys:
 
 ```bash
 ./importAccount.sh ./validator_keys
