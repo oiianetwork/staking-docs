@@ -2,7 +2,7 @@
 sidebar_position: 80
 ---
 
-# Withdrawing Using ethdo
+# Withdraw Deposit
 
 ## Base Usage
 

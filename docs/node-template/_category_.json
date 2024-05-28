@@ -1,6 +1,6 @@
 {
-  "label": "MEV",
-  "position": 500,
+  "label": "Node Template",
+  "position": 300,
   "link": {
     "type": "generated-index",
   }

@@ -2,7 +2,7 @@
 sidebar_position: 10
 ---
 
-# Nethwork config
+# Nethwork Config
 
 All network config info to run a node on Endurance is in this repo:
 

@@ -70,7 +70,13 @@ Validator Status: {"data":[{"enabled":true,"description":"","voting_pubkey":"0xb
 ---
 ```
 
-## Error Fix
+### Error Fix
+
+You can check your validator logs using this command:
+
+```
+docker logs -f mainnet-reth-lighthouse-validator-1
+```
 
 If you accidentally start your node before generating the secrets file, and an error appears like this:
 
@@ -103,3 +109,7 @@ Just need to execution this commond to delete the `validator_definitions.yml` fi
 ```
 rm validator_keys/validator_definitions.yml
 ```
+
+## Send Deposit
+
+As in the [Send Deposit](./send-deposit.md) step, you need to send your newly generated `deposit_data-` file in the [staking launchpad](https://staking.fusionist.io/en/).

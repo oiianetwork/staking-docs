@@ -1,6 +1,6 @@
 {
-  "label": "Option",
-  "position": 500,
+  "label": "MEV",
+  "position": 600,
   "link": {
     "type": "generated-index",
   }
