@@ -2,7 +2,7 @@
 sidebar_position: 100
 ---
 
-# Import Keys by Lighthouse cli
+# Import Keys by Lighthouse
 
 
 You **should not** use these parameters in your startup:
