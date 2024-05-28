@@ -29,3 +29,9 @@ Endurance had 33,000 validators in the genesis block when Endurance 2.0 launched
 
 - https://arewetheminorityyet.com/
 
+## Help
+
+If you have any questions about staking, feel free to ask in this Discord channel:
+
+- [technial-support](https://discord.com/channels/926691694680870982/1212701304787566592)
+

@@ -49,6 +49,8 @@ And the `Syncing Status` shows the node's sync status. When it reaches this cond
 
 If everything is okay, you already have a node ready to become a validator now.
 
-## More template
+:::tip
 
 If you have more templates like this, such as Geth-Prysm, feel free to contribute your template!
+
+:::
