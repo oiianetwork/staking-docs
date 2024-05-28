@@ -32,7 +32,7 @@ The requirement of machine memory is decided by the Execution Layer client type.
 
 The requirement for disk space is related to the mode of storing data by the execution layer client.
 
-| Client | Least Memory |
+| Type | Least Disk Space |
 | --- | --- |
 | Full node | 250 GB |
 | Archive node | 500 GB |

@@ -2,9 +2,9 @@
 sidebar_position: 30
 ---
 
-# Reth - Lighthouse
+# Running Nodes with Templates
 
-## Template
+## Reth-Lighthouse Template
 
 There is a template to easily run a node on the Endurance mainnet. Just follow this repo's README:
 
