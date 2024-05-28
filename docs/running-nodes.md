@@ -2,7 +2,7 @@
 sidebar_position: 30
 ---
 
-# Running Nodes with Templates
+# Running Nodes
 
 ## Reth-Lighthouse Template
 

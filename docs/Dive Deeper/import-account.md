@@ -11,6 +11,11 @@ You **should not** use these parameters in your startup:
 --validators-dir=/validator_keys
 --secrets-dir=/validator_keys_secrets
 ```
+:::note
+
+It means you need to delete these [two lines](https://github.com/lyfsn/mainnet-reth-lighthouse/blob/main/compose.yaml#L93-L94) before starting your node:
+
+:::
 
 You can run this script in the `mainnet-reth-lighthouse` folder to import your keys:
 
