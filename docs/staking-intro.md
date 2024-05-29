@@ -3,12 +3,6 @@ slug: /
 sidebar_position: 1
 ---
 
-:::tip
-
-This document is under heavy development. We hope you contribute to help perfect it. Every contributor has the possibility to earn a reward!
-
-:::
-
 # Staking Intro
 
 Endurance building based on Ethereum technology uses PoS mechanisms similar to Ethereum, allowing a validator to earn rewards in the network by staking 32 ACE.
@@ -47,3 +41,9 @@ If you have any questions about staking, feel free to ask:
 
 - [Discord](https://discord.com/channels/926691694680870982/1212701304787566592)
 
+
+:::tip
+
+This document is under heavy development. We hope you contribute to help perfect it. Every contributor has the possibility to earn a reward!
+
+:::
