@@ -6,7 +6,7 @@ sidebar_position: 210
 
 You can start a Prysm node like this:
 
-```
+```yaml
 beacon:
     image: gcr.io/prysmaticlabs/prysm/beacon-chain:v5.0.3
     command:

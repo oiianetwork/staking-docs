@@ -1,12 +1,12 @@
 ---
-sidebar_position: 230
+sidebar_position: 240
 ---
 
-# Nimbus
+# Lodestar
 
-You can start a Nimbus node like this:
+You can start a Lodestar node like this:
 
-```
+```yaml
 beacon:
     image: chainsafe/lodestar:v1.18.1
     command:

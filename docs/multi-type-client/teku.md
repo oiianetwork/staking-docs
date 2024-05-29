@@ -6,7 +6,7 @@ sidebar_position: 220
 
 You can start a Teku node like this:
 
-```
+```yaml
 beacon:
     image: consensys/teku:24.4.0
     user: "root"

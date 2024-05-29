@@ -7,7 +7,7 @@ sidebar_position: 1
 
 Endurance building based on Ethereum technology uses PoS mechanisms similar to Ethereum, allowing a validator to earn rewards in the network by staking 32 ACE.
 
-## Reward
+## Staking Reward
 
 ### Base Reward
 
@@ -23,7 +23,7 @@ For solo stakers who verify their execution address on the Discord channel, the 
 - Related announcement in Discord: [Link to Discord](https://discord.com/channels/926691694680870982/927073351292293130/1232955052377772133)
 - Event rewards will be distributed every month by this address: [Link to Endurance Explorer](https://explorer-endurance.fusionist.io/address/0x9D0D8909Aba6E5b3E86F923F22c8e23B3e8ACd2d)
 
-## Decentralized
+## Network Decentralization
 
 Endurance had 33,000 validators in the genesis block owned by Fusionist when Endurance 2.0 launched on May 4, 2024. Endurance hopes the network will be decentralized enough. This chart shows the process status:
 
@@ -33,7 +33,7 @@ Endurance had 33,000 validators in the genesis block owned by Fusionist when End
 
 This is the staking launchpad for Endurance:
 
-- https://staking.fusionist.io/en/
+- https://staking.fusionist.io/
 
 ## Technical Support
 

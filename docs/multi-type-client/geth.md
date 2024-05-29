@@ -6,7 +6,7 @@ sidebar_position: 110
 
 You must initialize the Execution Layer node with `genesis.json` first like this:
 
-```
+```bash
 docker run \
   --rm \
   -it \
@@ -21,7 +21,7 @@ docker run \
 
 Then you can start a Geth node using a command like this in a Docker Compose file:
 
-```
+```yaml
 execution:
     image: ethereum/client-go:v1.14.0
     command:

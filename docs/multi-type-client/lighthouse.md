@@ -6,7 +6,7 @@ sidebar_position: 200
 
 You can start a Lighthouse node using a command like this in a Docker Compose file:
 
-```
+```yaml
 beacon:
     image: sigp/lighthouse:v5.1.3
     command:

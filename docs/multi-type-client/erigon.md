@@ -6,7 +6,7 @@ sidebar_position: 140
 
 You should initialize the genesis block first:
 
-```
+```yaml
 docker run \
   --rm \
   -it \

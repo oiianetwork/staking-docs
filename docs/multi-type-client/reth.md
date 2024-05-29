@@ -6,7 +6,7 @@ sidebar_position: 150
 
 You can start a Reth node like this:
 
-```
+```yaml
 execution:
     image: ghcr.io/paradigmxyz/reth:v0.2.0-beta.6
     command:

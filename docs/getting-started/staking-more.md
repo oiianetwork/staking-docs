@@ -70,7 +70,7 @@ Validator Status: {"data":[{"enabled":true,"description":"","voting_pubkey":"0xb
 ---
 ```
 
-### Error Fix
+### Troubleshooting
 
 You can check your validator logs using this command:
 

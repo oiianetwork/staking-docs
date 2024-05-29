@@ -6,13 +6,13 @@ sidebar_position: 20
 
 ## Select a Service
 
-Staking requires you to run a server online 24/7, so you should select a method to run your node:
+Staking requires you to run a server online 24/7. You should choose a method to run your node from the following options:
 
-1. Buy a cloud server service such as AWS, Google Cloud, or Oracle Cloud
-2. Buy a VPS
-3. Run your node on your local computer
-4. Buy a mini server and set it up in your home
-5. ...
+1.	Cloud Server Service: Purchase a cloud server service such as AWS, Google Cloud, or Oracle Cloud.
+2.	Virtual Private Server (VPS): Buy a VPS from a provider of your choice.
+3.	Local Computer: Run your node on your local computer.
+4.	Mini Server: Buy a mini server and set it up at your home.
+5.	Other Options: Explore other methods that suit your needs and capabilities.
 
 ## Hardware Parameters
 

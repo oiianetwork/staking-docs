@@ -6,7 +6,7 @@ sidebar_position: 130
 
 You can start a Besu node like this:
 
-```
+```yaml
 execution:
     image: hyperledger/besu:24.5.1
     environment:

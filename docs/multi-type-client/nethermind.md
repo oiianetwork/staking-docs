@@ -6,7 +6,7 @@ sidebar_position: 120
 
 You can start a Nethermind node like this:
 
-```
+```yaml
 execution:
     image: nethermindeth/nethermind:release-1.26.0
     command:
