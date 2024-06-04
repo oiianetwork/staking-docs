@@ -4,9 +4,19 @@ sidebar_position: 80
 
 # Withdraw Deposit
 
+You can run this command anywhere, such as on your own computer or your VPS. You just need to know your mnemonic, which is used to generate your validator key.
+
 ## Base Usage
 
-### 1. Use the following command to install `ethdo`:
+### 1. Install `ethdo`
+
+#### (Option 1) Download `ethdo` binary from the release version
+
+- https://github.com/wealdtech/ethdo/releases
+
+Download the latest version of the binary program for the platform you are using now.
+
+#### (Option 2) Use the following command to install `ethdo` via Golang:
 
 ```
 go install github.com/wealdtech/ethdo@latest
