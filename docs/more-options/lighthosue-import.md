@@ -13,7 +13,7 @@ You **should not** use these parameters in your startup:
 ```
 :::note
 
-It means you need to delete these [two lines](https://github.com/lyfsn/mainnet-reth-lighthouse/blob/main/compose.yaml#L93-L94) before starting your node:
+It means you need to delete these [two lines](https://github.com/OpenFusionist/mainnet-reth-lighthouse/blob/main/compose.yaml#L93-L94) before starting your node:
 
 :::
 
