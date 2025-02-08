@@ -90,7 +90,7 @@ const config: Config = {
           items: [
             {
               label: 'Discord',
-              href: 'https://http://discord.gg/fusionistio',
+              href: 'https://discord.gg/fusionistio',
             },
             {
               label: 'Twitter',
