@@ -40,4 +40,11 @@ Configure your consensus and validator client to use mev-boost:
 - Lighthouse consensus: `--builder http://127.0.0.1:18550` 
 - Lighthouse validator: `--builder-proposals`
 
+## check relay txs
+
+Transactions packaged by mev-boost-relay can be viewed via relay scan:
+
+- [http://152.53.37.233:9060](http://152.53.37.233:9060/)  for relay-eur.endurancehub.org
+- [http://202.61.229.228:9060](http://202.61.229.228:9060/) for relay-us.endurancehub.org
+
 Reference: [Guide on how to prepare a staking machine for the Merge](https://github.com/eth-educators/ethstaker-guides/blob/main/prepare-for-the-merge.md#configure-your-consensus-and-validator-client-to-use-mev-boost)

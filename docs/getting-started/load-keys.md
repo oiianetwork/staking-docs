@@ -16,7 +16,7 @@ mainnet-reth-lighthouse
 │   ├── keystore-m_12381_3600_0_0_0-1716876797.json
 ```
 
-### Generate key secrects file
+### Generate key secrets file
 
 Run this script with your keystore file's password to generate a secrets file, so your validator can import your keys:
 
