@@ -104,7 +104,7 @@ May 28 08:37:46.037 INFO Shutting down..                         reason: Failure
 Failed to start validator client
 ```
 
-Just need to execution this commond to delete the `validator_definitions.yml` file adn restart your node again, everything will be fixed:
+Just need to execution this command to delete the `validator_definitions.yml` file and restart your node again, everything will be fixed:
 
 ```
 rm validator_keys/validator_definitions.yml
