@@ -16,11 +16,11 @@ You will lose your assets forever if you use the wrong CLI tool or wrong paramet
 
 On Endurance mainnet you must be use this cli tool to generate your validator's key:
 
-- https://github.com/OpenFusionist/staking-deposit-cli
+- https://github.com/oiianetwork/staking-deposit-cli
 
 You can install this CLI from source using the repo's README. Note that using `virtualenv` is recommended and better, as this CLI tool only supports lower versions of Python.
 
-You can also download the pre-built binary from this [release page](https://github.com/OpenFusionist/staking-deposit-cli/releases/tag/v2.7.0-endurance).
+You can also download the pre-built binary from this [release page](https://github.com/oiianetwork/staking-deposit-cli/releases/tag/v2.7.0-endurance).
 
 ### Check your keys
 
@@ -50,7 +50,7 @@ This shows the `fork_version` is correct. If you run this command and it outputs
 
 You can build this GUI tool yourself (no pre-built version currently):
 
-- https://github.com/OpenFusionist/wagyu-key-gen
+- https://github.com/oiianetwork/wagyu-key-gen
 
 ## Additional Info
 

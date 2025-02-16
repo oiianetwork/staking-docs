@@ -10,7 +10,7 @@ sidebar_position: 30
 
 There is a template to easily run a node on the Endurance mainnet. Just follow this repo's README:
 
-- https://github.com/OpenFusionist/mainnet-reth-lighthouse
+- https://github.com/oiianetwork/mainnet-reth-lighthouse
 
 With just 5 command line steps, you can run a live node.
 

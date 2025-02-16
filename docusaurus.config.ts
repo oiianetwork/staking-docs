@@ -40,7 +40,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/OpenFusionist/staking-docs/edit/main/',
+            'https://github.com/oiianetwork/staking-docs/edit/main/',
         },
         blog: false,
         theme: {
