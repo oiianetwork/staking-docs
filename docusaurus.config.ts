@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Endurance Staking',
+  title: 'Oiia Network Staking',
   tagline: 'Become a validator',
   favicon: 'img/favicon.ico',
 
@@ -15,7 +15,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'OpenFusionist', // Usually your GitHub org/user name.
+  organizationName: 'oiianetwork', // Usually your GitHub org/user name.
   projectName: 'staking-docs', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
@@ -54,9 +54,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Endurance Staking',
+      title: 'Oiia Network Staking',
       logo: {
-        alt: 'Endurance Logo',
+        alt: 'Oiia Network Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -67,7 +67,7 @@ const config: Config = {
           label: 'Docs',
         },
         {
-          href: 'https://github.com/OpenFusionist/staking-docs',
+          href: 'https://github.com/oiianetwork/staking-docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -88,31 +88,15 @@ const config: Config = {
         {
           title: 'Community',
           items: [
-            {
-              label: 'Discord',
-              href: 'https://discord.gg/fusionistio',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://x.com/fusionistio',
-            },
           ],
         },
         {
           title: 'More',
           items: [
-            {
-              label: 'Blog',
-              href: 'https://devlog.fusionist.io/',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/OpenFusionist/',
-            },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Endurance, Inc.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Oiia Network, Inc.`,
     },
     prism: {
       theme: prismThemes.github,
